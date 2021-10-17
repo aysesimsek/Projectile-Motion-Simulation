@@ -4,11 +4,11 @@ This study has been published in 2020. Please cite this paper in your publicatio
 
 - Computation and visualization of physics equations [[**paper**]](https://github.com/aysesimsek/Projectile-Motion-Simulation/tree/main/Computationandvisualizationofphysicsequations.pdf)
 
-**Getting Started**
+## **Getting Started**
 
 This study aimed to help by creating a virtual laboratory for those who want to examine the projectile motion of mechanical physics. In this way, less costly virtual laboratory simulations were created instead of creating real-life laboratory environments.
 
-**METHOD**
+## **METHOD**
 
 In this study, a virtual projectile motion laboratory is designed. In the mechanical physics field, almost all equations are examined isolated from the real environment. Many factors are difficult to follow in the true nature of the movement. Therefore, these difficult to calculate factors are ignored and the approximate results are processed.
 
@@ -47,7 +47,7 @@ If we expand this equation system, we get an equation system as in Equation (7).
 
 The projectile motion of an object is simple to analyze is we accept that (1) there is no air friction and (2) gravitational acceleration (g) is constant over the range of motion. When we get to this stage, we get the projectile motion as the combination of two simple shots: vertical and horizontal. The vertical component of the projectile motion is the free-fall. According to our second acceptance, the value of the gravitational acceleration is 9.8 m/s2 in order to easy calculation.
 
-**MODEL**
+## **MODEL**
 
 The developed model offers three different data entry options. Besides, each option offers the option of whether there is air friction. There are no other forces to cease or decrease the initial force except air friction in our environment. This problem is called “projectile movement with air resistance”. In the first option, the system requires the initial velocity (V0) and the initial angle (Θ). The second option requires Vx and Vy velocities. Unlike these options, the third option requires the initial angle and point where the motion will end, which is the range (x).
 
@@ -82,7 +82,7 @@ The user can pause the motion whenever s/he wants and see the recent velocity an
 | :-: |
 |**Figure 5.** An example of the recent values of the projectile|
 
-**CONCLUSION**
+## **CONCLUSION**
 
 This paper introduces a virtual laboratory for mechanics physics experiments. To test the developed virtual laboratory, especially, the projectile motion problems are used. The developed system, firstly, offers to choose an approach method. The first option gets two components of initial velocity, the second option gets initial velocity itself, and the third option gets the ending point of the motion from the user.
 
