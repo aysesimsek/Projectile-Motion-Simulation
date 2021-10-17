@@ -1,4 +1,4 @@
-# PMS (Projectile Motion Simulation)
+# Projectile Motion Simulation
 
 **Getting Started**
 
