@@ -2,7 +2,7 @@
 
 This study has been published in 2020. Please cite this paper in your publications if it helps your research:
 
-- Computation and visualization of physics equations [[**paper**]](https://github.com/aysesimsek/Projectile-Motion-Simulation/tree/main/Computationandvisualizationofphysicsequations.pdf) (**2020**)
+- Computation and visualization of physics equations [[**paper**]](https://github.com/aysesimsek/Projectile-Motion-Simulation/tree/main/Computationandvisualizationofphysicsequations.pdf)
 
 **Getting Started**
 
