@@ -1,5 +1,9 @@
 # Projectile Motion Simulation
 
+This study has been published in 2020. Please cite this paper in your publications if it helps your research:
+
+- Computation and visualization of physics equations [[**paper**]](https://github.com/aysesimsek/Projectile-Motion-Simulation/tree/main/Computationandvisualizationofphysicsequations.pdf) (**2020**)
+
 **Getting Started**
 
 This study aimed to help by creating a virtual laboratory for those who want to examine the projectile motion of mechanical physics. In this way, less costly virtual laboratory simulations were created instead of creating real-life laboratory environments.
